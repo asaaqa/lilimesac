@@ -39,7 +39,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
             ],
             [
-            InlineKeyboardButton("⦓𝐒𝐎𝐔𝐑𝐂𝐄 𝑺𝑶𝑯𝑨⦔", url=f"https://t.me/Mlze1bot"),
+            InlineKeyboardButton("⦓𝐒𝐎𝐔𝐑𝐂𝐄 𝐉𝐔𝐋𝐈𝐀⦔", url=f"https://t.me/Aaaahmm"),
         ]
     ]
 )
@@ -54,12 +54,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="• اوامࢪ التشغيل •", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="• سوࢪس سـهـۍ •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس جوليان •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/ASAKIOP"
+            text="• مطوࢪ السورس •", url="https://t.me/RRRXS"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
@@ -74,7 +74,7 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="• سوࢪس سـهـۍ •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس جوليان •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
