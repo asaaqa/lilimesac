@@ -43,12 +43,12 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/ASAAQLIO",
+        "value": "https://t.me/YEMEN_I22",
         "required": false
       },
       "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/asaaqa/refz_music",
+      "value": "https://github.com/asaaqa/lilimesac",
       "required": false
       } 
       }, 
